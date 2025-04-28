@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - I enjoy building smart automations to make daily life easier.
 
 ## 📬 Contact Me
-- [![LinkedIn](www.linkedin.com/in/kun-huang-511110188)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kun-huang-511110188)
 - ✉️ Email: imhuangkun@outlook.com
 ---
