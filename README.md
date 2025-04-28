@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # Hi there, I'm Corrine Huang 👋
 
 ## 🌟 About Me
-- ## 🌟 About Me
 - 😄 I'm a data analyst with 3 years of experience at ByteDance, currently pursuing a Master's degree in Business Analytics at Nanyang Technological University (NTU). I specialize in leveraging data to drive strategic decisions and am passionate about transforming complex data into actionable insights.
 - 🔭 I'm working on improving my skills in data analysis, machine learning, and RPA automation.
 - 🌱 Currently learning: Cybersecurity, Bayesian Networks, Advanced Python.
